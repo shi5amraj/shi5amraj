@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently Working As a Java SpringBoot Developer<br>I am Currently Learning JavaScript,React.js and MongoDB<br>Ask me about anything i know
+I am currently Working As a Java SpringBoot Developer<br>I am Currently Learning JavaScript,React.js and MongoDB<br>Ask me anything i know
 
 
 ## 🌐 Socials:
